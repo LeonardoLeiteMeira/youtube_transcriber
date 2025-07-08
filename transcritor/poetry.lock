@@ -1,0 +1,71 @@
+[[package]]
+name = "yt-dlp"
+version = "2024.10"
+description = "youtube downloader"
+category = "main"
+optional = false
+python-versions = ">=3.8"
+
+[[package]]
+name = "ffmpeg-python"
+version = "0.2.0"
+description = "ffmpeg wrapper"
+category = "main"
+optional = false
+python-versions = "*"
+
+[[package]]
+name = "openai-whisper"
+version = "2024.5"
+description = "whisper asr"
+category = "main"
+optional = false
+python-versions = ">=3.8"
+
+[[package.dependencies]]
+ffmpeg-python = ">=0.2.0"
+torch = ">=2.1"
+tqdm = ">=4.0"
+regex = ">=2023.0"
+numpy = ">=1.20"
+
+[[package]]
+name = "srt"
+version = "3.5.3"
+description = "SubRip text parser"
+category = "main"
+optional = false
+python-versions = ">=3.5"
+
+[[package]]
+name = "torch"
+version = "2.2.0"
+category = "main"
+optional = false
+python-versions = ">=3.8"
+
+[[package]]
+name = "tqdm"
+version = "4.66.2"
+category = "main"
+optional = false
+python-versions = ">=3.8"
+
+[[package]]
+name = "regex"
+version = "2023.12.25"
+category = "main"
+optional = false
+python-versions = "*"
+
+[[package]]
+name = "numpy"
+version = "1.26.4"
+category = "main"
+optional = false
+python-versions = ">=3.8"
+
+[metadata]
+lock-version = "2.0"
+python-versions = "^3.12"
+content-hash = "0"
