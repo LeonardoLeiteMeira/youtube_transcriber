@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "transcritor"
+version = "0.1.0"
+description = "YouTube audio transcriber"
+authors = ["Codex <>" ]
+readme = "README.md"
+packages = [{include = "transcritor", from = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+yt-dlp = "^2024.10"
+ffmpeg-python = "^0.2.0"
+openai-whisper = "^2024.5"
+srt = "^3.5.3"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0"
+ruff = "^0.4.4"
+black = "^24.3"
+
+[build-system]
+requires = ["poetry-core>=1.8"]
+build-backend = "poetry.core.masonry.api"
