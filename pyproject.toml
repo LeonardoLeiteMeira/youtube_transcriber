@@ -10,7 +10,7 @@ packages = [{include = "transcritor", from = "src"}]
 python = "^3.12"
 yt-dlp = "^2024.10"
 ffmpeg-python = "^0.2.0"
-openai-whisper = "^2024.5"
+openai-whisper = "20230314"
 srt = "^3.5.3"
 
 [tool.poetry.group.dev.dependencies]
