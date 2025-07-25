@@ -44,4 +44,18 @@ Opcionalmente, é possível construir uma imagem Docker:
 docker build -t transcritor .
 ```
 
+## Tradução de arquivos TXT
+
+O repositório inclui um script auxiliar `translate_txt.py` para traduzir
+arquivos de texto longos utilizando a API da OpenAI sem depender do SDK
+oficial. Defina a chave em `OPENAI_API_KEY` no topo do arquivo e execute:
+
+```bash
+poetry run python translate_txt.py
+```
+
+O script lerá o arquivo especificado em `SOURCE_FILENAME`, enviará o conteúdo
+em partes para o modelo selecionado e escreverá o resultado traduzido em um novo
+arquivo com sufixo `.translated.<idioma>.txt`.
+
 
