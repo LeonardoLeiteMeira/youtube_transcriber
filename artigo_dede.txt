@@ -1,0 +1,388 @@
+﻿Uma revisão: Materiais Biosorventes e biopoliméricos Sustentáveis para Adsorção de Metais Pesados
+OU
+ Materiais Biosorventes e biopoliméricos Sustentáveis para Adsorção de Metais Pesados: Avanços, Desafios e Perspectivas - Uma revisão
+OU
+ Uma revisão: Materiais Biosorventes e biopoliméricos Sustentáveis para Adsorção de Metais Pesados: Avanços, Desafios e Perspectivas
+
+
+
+
+Ana Carolina Nunes da Silva, André Lamounier Caixeta, Matheus de Carvalho Dias, Sarah Kalli Silva da Silva, Camila Monteiro Cholant, Tiago Volkmer, Sabir Khan
+
+
+Technological Development Center - CDTec, Postgraduate Program in Materials Science and Engineering, PPGCEM/UFPEL, Federal University of Pelotas, UFPel, CEP: 96010-610, Pelotas, RS, Brazil
+
+
+acnsilva@ufpel.edu.br
+matheus.dias@ufpel.edu.br
+sarah.silva@ufpel.edu.br 
+andre.caixeta@ufpel.edu.br
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+G R A P H I C A L    A B S T R A C T
+
+
+  
+
+
+
+
+
+
+
+
+
+Resumo
+
+
+Este artigo revisa o desenvolvimento e aplicação de biosorventes sustentáveis na remoção de metais pesados de efluentes industriais, abordando avanços, desafios e perspectivas futuras. A contaminação por metais pesados representa um risco ambiental significativo, demandando soluções eficientes. O estudo baseou-se em análise bibliométrica das bases Scopus e Web of Science, abrangendo 2.082 publicações entre 1990 e 2025.  São discutidos os mecanismos fundamentais da adsorção, incluindo interações físico-químicas e parâmetros operacionais que influenciam a eficiência do processo. Os materiais avançados sustentáveis são categorizados e discutidos, com ênfase em sua origem biopolimérica sendo esses, materiais altamente porosos eficientes, com característica de alta capacidade adsortiva para captura de contaminantes. Ensaios em escala real comprovam a eficácia de adsorventes derivados de resíduos agroindustriais, porém barreiras econômicas e regulatórias dificultam sua implementação em larga escala.  As perspectivas de pesquisa incluem o desenvolvimento de materiais seletivos e regeneráveis, a otimização de processos de síntese sustentável e a integração com tecnologias emergentes. A adoção de princípios da economia circular mostra-se promissora, porém permanecem desafios para garantir viabilidade técnica e econômica em aplicações industriais. O trabalho identifica a necessidade de estudos adicionais para superar as limitações atuais e potencializar o uso desses materiais em sistemas de tratamento reais.
+
+
+Palavras-chaves: Absorção; metais pesados; biosorventes sustentáveis; mecanismos de adsorção; biopolímeros.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1            Introdução 
+        A contaminação ambiental por metais pesados, como chumbo (Pb), cádmio (Cd), mercúrio (Hg), cromo (Cr) e arsênio (As), representa um dos maiores desafios ambientais contemporâneos, devido à toxicidade, persistência no ambiente e capacidade de bioacumulação desses elementos. São amplamente utilizados em atividades industriais, como mineração, galvanoplastia, fabricação de baterias, pigmentos, fertilizantes e curtumes (Manzini; Sá; Plicas, 2010). O descarte inadequado de efluentes contendo esses metais acarreta a poluição de solos e recursos hídricos, afetando diretamente os ecossistemas e a saúde humana (Freitas et al., 2021).
+        Diversas tecnologias vêm sendo desenvolvidas para o tratamento de efluentes industriais contaminados por metais pesados. Dentre os métodos convencionais destacam-se a precipitação química, troca iônica, filtração por membranas e eletrocoagulação. Apesar de eficazes, essas técnicas enfrentam limitações como alto custo, consumo energético elevado, baixa seletividade e a geração de resíduos secundários (Ferrazzo et al., 2018).
+        Nesse cenário, a adsorção tem se destacado como uma alternativa eficiente, de baixo custo e ambientalmente sustentável, especialmente quando realizada com materiais adsorventes derivados de biomassa ou resíduos agrícolas. Esses materiais são abundantes, apresentam grupos funcionais ativos e grande potencial de regeneração, (Reis et al., 2022; Nascimento; Neto; Melo, 2014). 
+        As membranas poliméricas também despontam como produção a partir de polímeros naturais ou sintéticos, têm sido amplamente aplicadas em setores como separação de gases, embalagens, revestimentos e, especialmente, no tratamento de efluentes. Entre suas vantagens destacam-se o baixo custo, a viabilidade técnica, a sustentabilidade e a eficiência de separação. A flexibilidade de aplicação — desde sistemas compactos até estruturas de maior porte — torna essas membranas uma solução eficaz para a recuperação de recursos hídricos (Birniwa et al., 2024).
+        O reaproveitamento de resíduos agroindustriais na formulação de materiais para remediação ambiental representa uma abordagem estratégica para atender às demandas de sustentabilidade. Além de mitigar a poluição por metais pesados, reduz a dependência de matérias-primas não renováveis e fortalece os compromissos globais de transição para uma economia mais verde (Sabando-Fraile et al., 2024).
+Ademais este estudo alinha-se com os Objetivos de Desenvolvimento Sustentável (ODS), especialmente o ODS 9 (Indústria, Inovação e Infraestrutura), ao reunir e analisar avanços científicos no desenvolvimento de materiais avançados e funcionais com potencial para aplicação em processos industriais de remediação ambiental. Incentiva a inovação tecnológica e fortalece a capacidade de pesquisa e desenvolvimento nas áreas de engenharia de materiais.
+         Também apoia o ODS 12 (Consumo e Produção Responsáveis), ao evidenciar o uso de biomateriais, a promoção da economia circular e a substituição de materiais não renováveis por alternativas mais sustentáveis e eficientes, com foco na redução de resíduos e na minimização do impacto ambiental. Por fim, relaciona-se com o ODS 13 (Ação Climática), ao promover soluções para a redução da contaminação por metais pesados, contribuindo para a mitigação de impactos ambientais e para a proteção da saúde humana e animal, diante da presença e risco desses contaminantes em ecossistemas aquáticos e terrestres (United Nations, 2021).
+Neste contexto, o presente artigo tem como objetivo revisar criticamente o estado da arte sobre materiais avançados sustentáveis aplicados à adsorção de metais pesados. Buscando identificar os principais avanços, limitações técnicas e econômicas, e discutir perspectivas futuras quanto à viabilidade prática, eficiência de remoção e integração com modelos de desenvolvimento sustentável.
+2            Metodologia ou Banco de dados 
+A análise bibliométrica foi conduzida com base para coleta de dados. Essas foram selecionadas as bases Scopus e Web of Science, onde foram realizadas buscas utilizando as seguintes palavras-chave relacionadas:  "heavy metals" OR "metal ions" AND “adsorption" OR "removal" AND "sustainable materials" OR "green materials" OR "biosorbents" OR "advanced materials".
+Do banco de dados Scopus foram exportados 1.627 artigos originais, 318 artigos de revisões, 152 capítulos de livros e 7 livros completos, enquanto da Web of Science foram obtidos 11 artigos. Após a união dos dados, foram removidos os registros duplicados, resultando em um total consolidado de 2.082 documentos abrangendo o período de 1990 a 2025.
+A importação dos dados foi realizada no ambiente R, utilizando o pacote bibliometrix. O tratamento dos dados incluiu a limpeza e padronização de campos importantes, como palavras-chave, índice de produção por ano e tipos de documentos produzidos. 
+3            Fundamentos da Adsorção de Metais Pesados
+3.1           Definição e classificação de metais pesados
+Tchounwou et. al., (2012), define metais pesados como elementos químicos com alta densidade se comparados à densidade da água. A presença de metais pesados mesmo que em baixas concentrações, torna-se altamente tóxica para o ser humano. Metais pesados incluem tanto metais essenciais como, Zn, Cu, Fe, em quantidades de traço, quanto não essenciais e altamente tóxicos como, Pb, Cd, Hg, As.
+Há uma ocorrência natural de metais pesados em toda a crosta terrestre, onde a maior parte de contaminação ambiental advém de ações antropogênicas e fontes relacionadas a ambientes industriais, agrícolas, farmacêuticos, efluentes domésticos e mineração com base em metais pesados, conforme aborda Tchounwou et. al., (2012). 
+3.1.1     Fontes de contaminação por metais pesados
+Dentro desse contexto, há uma preocupação crescente associada à contaminação ambiental advinda de uma exposição drástica relacionada ao uso deles em diversas aplicações agrícolas, industriais e tecnológicas, pois essas e outras são fontes já comprovadas de metais pesados. 
+3.1.2     Impactos em ambientes aquáticos e métodos de tratamento
+A presença de íons de metais pesados, descartados em ambientes aquáticos causam uma série de complicações para o ecossistema. Portanto, para eliminação desses poluentes, visando reduzir os impactos ambientais, tem-se assim tratamentos já abordados em literatura para descontaminação (Ihsanullah et al., 2022).
+3.2           Métodos de remoção de metais pesados em efluentes
+Nesse contexto, para remoção de metais pesados em efluentes, são utilizados alguns métodos, alguns mecanismos de adsorção, por complexação, quelatação, troca iônica e precipitação química e filtração por uma membrana de adsorção (Zhao et al., 2024). Ademais Tchounwou et. al., (2012), ressalta a consideração de metais pesados serem igualmente considerados como elementos traços devido a sua presença em concentrações traço (< 10 ppm).
+4            Adsorção de metais pesados
+4.1           Fatores que influenciam a biodisponibilidade dos metais pesados
+De acordo com estudos de Tchounwou et. al., (2012) aponta-se que a biodisponibilidade do ambiente contaminado é influenciada por fatores físicos como adsorção, concentração inicial, temperatura, tempo de contato e por fatores químicos como termodinâmica, complexação, pH, inferência de outros íons e solubilidade. 
+ 
+4.2           Mecanismo físico-químico de absorção
+De acordo com trabalhos de Tchounwou et. al., (2012); (Ihsanullah et al., 2022); Zhang et al., (2022); Zhao et al., (2024), aerogéis são materiais nanoporosos com uma alta área de contato superficial, baixa densidade e excelente capacidade de adsorção, tornando-se eficaz na remoção de metais pesados em efluentes contaminados. Tal processo ocorre por meio de interações físico-químicas, que podem então ser resumidos nos seguintes mecanismos: 
+4.3           Adsorção física
+A adsorção física ocorre de forma rápida e apresenta baixo custo, ou seja, ótimo custo-benefício, contudo apresenta menor seletividade em relação a adsorção química. Entretanto, quando combinando fator porosidade e funcionalidade, os aerogéis têm seu uso otimizado para remoção eficiente de metais pesados em água (Wei et al., 2017; Zhan et al., 2018; Zhang et al., 2022).
+Íons metálicos como Pb2+, Cd 2+, Hg2+ que estarão presentes em meios aquosos difundem-se através dos poros do aerogel (com base em sílica, carbono ou polímeros), sendo assim por difusão e consequentemente sua deposição acontece por forças de interação do tipo Van der Waals (Yang et al., 2019; Zhang et al., 2022), por uma vez que os aerogéis são submetidos a uma secagem supercrítica, o que resulta em uma preservação de sua estrutura porosa. 
+Quanto maior a área de contato superficial, mais sítios de adsorção estão disponíveis, uma vez que, os poros passam a atuar como armadilhas, onde os íons ficam retidos por processos físicos devido ao confinamento em nanoescala. Contudo a adsorção física apresenta uma interação relativamente mais fraca entre a superfície do produto (aerogel) e metais pesados.
+4.3.1     Ligação de hidrogênio
+É uma interação intermolecular importante, mas secundária na adsorção, quando os aerogéis possuem grupos funcionais como -OH, -HN2 ou -COOH. Aplicando a remoção de metais pesados em água, essa interação pode contribuir de forma indiretamente na eficiência do aerogel (Zhang et al., 2022). A ligação pode ser rompida por mudanças eventuais de pH ou competição com moléculas de água. 
+4.3.2     Interação catiônica 
+Zhang et al., (2022) aborda de forma mais específica que a interação catiônica seria a atração entre grupos funcionais negativamente carregados em aerogéis e íons metálicos positivos. Esse mecanismo é dominante na remoção de metais como Pb²⁺, Cd²⁺, Cu²⁺, Hg²⁺ e Zn²⁺. Em seus estudos, aerogéis a base de carbono apresentam em sua estrutura anéis aromáticos extensos propiciando assim a formação de sítios para interação cátions-π com os metais pesados. 
+4.4           Adsorção química
+4.4.1     Mecanismo de adsorção
+Em revisão de literatura, observa-se parâmetros físico-químicos que interferem e afetam condições experimentais de adsorção como, a sua capacidade máxima baseados em aerogéis e adsorção de metais pesados em meio aquoso. Os principais mecanismos de adsorção incluem interações eletrostáticas, complexação superficial, quelação, difusão, interações e troca iônica. Estudos de Syeda e Yap, (2021); Akther et al., (2024) demonstraram que há uma participação significativa de ligações de hidrogênio e forças de van der Waals como mecanismos dominantes. 
+4.4.2     Atração eletrostática 
+A atração eletrostática é um método eficaz para remoção de íons metálicos em águas contaminadas, especialmente com a utilização de aerogéis funcionalizados. Este processo ocorre pela atração mútua dos íons metálicos e locais carregados por cargas opostas nos grupos funcionais do aerogel e nos íons metálicos em solução (Zhang et al., 2022). 
+Vale ressaltar que a atração está intrinsecamente relacionada com o pH e a eletronegatividade dos íons metálicos, uma vez que quanto maior o cátion eletronegativo mais forte a atração (Gao et al., 2013; Zhan et al., 2018). 
+Um exemplo, grupos funcionais carregados negativamente no aerogel como, -COO⁻, -O⁻, -SO₃⁻, atraem cátions metálicos como por exemplo, Pb²⁺, Cd²⁺, Cu²⁺ e grupos carregados positivamente como -NH₃⁺ atraem ânions metálicos, CrO₄²⁻, AsO₄³⁻.
+4.4.3     Superfície de complexação 
+A complexação superficial é um mecanismo de adsorção no qual íons metálicos formam complexos coordenados com grupos funcionais presentes na superfície do adsorvente. Esse processo ocorre principalmente em materiais porosos, como aerogéis de carbono ou sílica, que possuem sítios ativos sendo estes: -OH, -COOH, -NH₂, capazes de doar pares de elétrons aos metais pesados como por exemplo, Pb²⁺, Cd²⁺, Cu²⁺) (Zhong et al., 2022).
+              Seu mecanismo se dá por: coordenação com grupos oxigenados, aonde metais transicionais, como Cu²⁺ ou Hg²⁺ ligam-se a grupos carboxílicos (-COOH) ou hidroxilas (-OH), formando estruturas do tipo M²⁺-O-R. O efeito de alteração de pH < 4, a protonação dos grupos reduz a complexação, enquanto em pH neutro/alcalino (5–9), a desprotonação favorece a ligação metal-ligante, por fim a seletividade em metais apresenta-se com alta afinidade por ligantes duros (Fe³⁺, Al³⁺) ou macios (Hg²⁺, Ag⁺) o que podem resultar em ser seletivamente capturados (Zhong et al., (2022); Garg et al., (2023)).
+4.4.4     Quelação 
+Conforme trabalhos de Ihsanullah et al., (2022); Zhao et al., (2024),  o processo de quelação é um caso específico de complexação onde um íon metálico é envolvido por múltiplos grupos funcionais do adsorvente, formando uma estrutura cíclica altamente estável. Esse mecanismo é crítico para a remoção de metais com alta toxicidade como acontece com cátions metálicos de Cd²⁺, Hg²⁺. Dentre suas características tem-se os grupos como EDTA (-N(CH₂COO⁻)₄), ditizonas ou tioureias atuam como "garras moleculares" que seriam como ligantes polidentados neste sistema.Apresentam uma alta estabilidade constante de formação (Kf), como no complexo Hg²⁺-EDTA (log Kf ≈ 21.5).Aplicando a utilização dos aerogéis funcionalizados com grupos amino (-NH₂) ou tiol (-SH), há demonstração de alta eficiência para quelação de Hg²⁺ (Zhou et al., 2021).Ademais, vale ressaltar que há um processo de dessorção que requer eluentes fortes como, HNO₃ de1 M, que podem degradar o material após ciclos repetidos. 
+4.4.5     Troca iônica
+Na troca iônica, íons metálicos em solução são capturados pela substituição de cátions mais leves (ex.: H⁺, Na⁺) previamente adsorvidos no material. Esse mecanismo é dominante em aerogéis com grupos carregados (ex.: -SO₃⁻, -COO⁻). Seu princípio de funcionamento se dá pela capacidade de troca que depende da densidade de grupos funcionais. Em relação a seletividade sabe que neste processo há uma influência pela carga e raio do íon. Um processo importante dentro da troca iônica é de regeneração, onde as soluções ácidas (HCl) ou salinas (NaCl) recuperam os sítios ativos.
+4.4.6     Fatores que afetam a adsorção 
+4.4.6.1    pH
+O fator pH influencia diretamente a adsorção por protonação e deprotonação de grupos superficiais. Uma vez que o pH baixo (meio ácido), a competição com H+ pode reduzir a adsorção, em contrapartida o pH neutro/ alcalino, promove a desprotonação de grupos -OH ou -COOH, ou seja há um favorecimento da ligação com os cátions metálicos (Ihsanullah et al., 2022; Zhang et al., 2022)
+4.4.6.2    Tempo de contato 
+Ihsanullah et al. (2022) e Zhang et al. (2022), abordam o tempo de contato como um parâmetro crítico na adsorção de metais pesados por aerogéis, devido a sua influência direta com a cinética do processo e pela capacidade máxima de remoção. Dentro disso, os mesmos autores destacam que este processo pode ser dividido em três fases: (1) difusão dos íons em superfície com o aerogel, ocorrendo de forma rápida; (2) adsorção nos sítios ativos, que é controlada por uma química superficial e (3) pelo preenchimento dos poros internos, com ocorrência mais lenta, variando conforme a porosidade. 
+4.4.6.3    Temperatura
+Conforme (Zhang et al., 2022; Ihsanullah et al., 2022) a temperatura pode aumentar a interação cinética de adsorção, contudo em temperaturas mais elevadas podem acabar reduzindo a capacidade de retenção no processo exotérmico.
+De acordo com estudos em aerogéis de Zhong et al. (2022) a adsorção de metais pesados, apresenta uma relação entre a capacidade de adsorção e a temperatura. Uma vez que com o aumento de temperatura a capacidade de adsorção apresenta aumento e logo por seguinte uma diminuição, tal resultado seria pelo aumento da temperatura e as ligações de hidrogênio nas macromoléculas uma vez que apresentam um enfraquecimento.  Este estudo de Zhong et al. (2022), corrobora com a conceituação de que o processo é exotérmico, leva de fato ao enfraquecimento da adsorção e redução da capacidade de adsorção. 
+4.4.6.4    Concentração inicial 
+Tchounwou et. al., (2012); Arora, (2019), destacam que a concentração inicial de metais pesados na solução é um fator importante que afeta a eficiência de adsorção. Quanto maior a concentração inicial, maior geralmente a quantidade de metal que pode ser adsorvida até atingir a saturação do adsorvente.
+No entanto, a taxa de adsorção e a capacidade de remoção também podem ser influenciadas por essa concentração, sendo que concentrações elevadas podem levar ao esgotamento rápido dos sítios de adsorção e, potencialmente, reduzir a eficiência do processo se o sistema não for otimizado adequadamente.
+Além disso, diferentes modelos de cinética de adsorção consideram a concentração inicial para determinar a velocidade do processo e a quantidade máxima de metais que o adsorvente pode reter. Assim, a concentração inicial é um parâmetro crucial na otimização do processo de adsorção para garantir a máxima remoção de metais pesados de soluções aquosas.
+4.4.6.5    Interferência de outros íons 
+A presença de íons competidores, como Na⁺, Ca²⁺ e Mg²⁺, além de ânions como Cl⁻ e SO₄²⁻, como por exemplo, em meios de efluentes industriais, isso pode comprometer a eficiência da adsorção de metais-alvo (Ihsanullah et al., 2022). Dentre esses, os cátions divalentes (Ca²⁺, Mg²⁺) exercem maior interferência do que os monovalentes (Na⁺, K⁺), devido à sua maior carga, resultando em uma competição mais intensa pelos sítios ativos do adsorvente.
+De acordo com Arora, (2019), a eficiência de adsorção de metais pesados por materiais como cinzas volantes e polímeros condutores é diretamente afetada pela presença de outros íons na solução. Entre os fatores determinantes, o pH destaca-se como um dos mais relevantes, pois influencia tanto a especiação dos metais quanto a carga superficial do adsorvente, modificando sua afinidade por diferentes íons concorrentes. Além disso, a concentração dos metais e o pH do meio afetam a seletividade do adsorvente, tornando possível a diminuição da capacidade de remoção de um determinado metal devido à competição por sítios de adsorção.
+Dessa forma, é essencial considerar a presença de outros íons na análise do desempenho de adsorção, uma vez que sua interferência pode alterar as condições químicas do sistema e, consequentemente, reduzir a eficiência do processo de remoção de metais pesados.
+5            Materiais Avançados Sustentáveis Utilizados como Adsorventes
+5.1           Materiais de origem biopolimérica
+Conforme relatado anteriormente neste trabalho, a adsorção por materiais adsorventes destaca-se como um dos métodos mais eficazes para a remoção de íons metálicos presentes em soluções aquosas, devido à sua simplicidade operacional, baixo custo e elevada eficiência. Ressalta-se ainda que as vantagens desse processo são significativamente ampliadas quando o adsorvente apresenta potencial de regeneração e pode ser adequadamente descartado após o uso (Daochalermwong, 2020).
+Nesse contexto, a escolha do material adsorvente torna-se um fator essencial para a eficiência do processo (Tariq; Yahaya; Sajid, 2024). Entre as diferentes classes de materiais, os biopolímeros têm recebido atenção crescente, em virtude de sua abundância, biodegradabilidade, estrutura química ajustável e origem renovável. Esses materiais podem ser obtidos a partir de resíduos agroindustriais, como bagaço de cana-de-açúcar, casca de arroz e restos de frutas e hortaliças (Boyle; Xiaoe; Mangwandi, 2025), ou ainda de resíduos da indústria pesqueira, como carapaças de crustáceos (Taha et al, 2025), promovendo o aproveitamento de subprodutos e o desenvolvimento de tecnologias ambientalmente responsáveis. Esses polímeros têm desempenhado um papel essencial no tratamento moderno de águas residuais, sendo aplicados em diversas etapas, como coagulação e floculação, desidratação de lodo, remoção química de contaminantes, controle de incrustações em membranas e em processos avançados, incluindo oxidação e adsorção (Mohanrasu, 2025).
+Dentre os adsorventes poliméricos, os biopolímeros têm se destacado por sua abundância, biodegradabilidade e potencial de modificação estrutural. Esses materiais, derivados de fontes renováveis, aliam sustentabilidade ambiental a propriedades funcionais que favorecem sua aplicação em sistemas de adsorção. Diversos biopolímeros de origem carboidratada têm sido amplamente empregados na remoção de íons metálicos de efluentes, em razão de suas propriedades químicas, baixo custo e compatibilidade ambiental (Yulia et al., 2025). Compostos como celulose, quitosana, lignina e alginato destacam-se por sua elevada área superficial, variedade estrutural e presença de grupos funcionais ativos, como aminas, hidroxilas, hidroxilas fenólicas, entre outros. Funcionalidades essas, que promovem interações físico-químicas com íons metálicos, formando complexos estáveis por meio de mecanismos de quelação. Essa composição confere aos biopolímeros alta hidrofilicidade e eficácia no tratamento de águas residuais contaminadas por metais pesados, ao mesmo tempo em que mantém o apelo sustentável e regenerável desses materiais (Fouda-Mbanga; Prabakaran; Pillay, 2021).
+A partir deste ponto, serão explorados com mais atenção os alguns dos biopolímeros naturais utilizados como adsorventes — celulose, quitosana, lignina e alginato. Serão abordadas suas propriedades mais relevantes, origens, modos de interação com íons metálicos e como esses materiais vêm sendo aplicados, de forma eficiente e sustentável, no tratamento de efluentes.
+5.1.1     Celulose
+A celulose é o polissacarídeo natural mais abundante do planeta, sendo o principal componente estrutural das paredes celulares das plantas. Trata-se de um homopolímero linear constituído por unidades repetidas de β-D-anidroglucopiranose unidas por ligações glicosídicas β-1,4 (Trivunac, 2024). Sua ampla disponibilidade em fontes como árvores, plantas, algas e, também, em resíduos agroindustriais — como palha de milho e casca de arroz — e têxteis (Barzegarzadeh, Hazrati, Amini-Fazl, 2025; Freitas et al., 2025), torna-a um precursor promissor e economicamente viável para a produção de materiais adsorventes. Como ilustrado na Fig. 1a, diferentes formas de celulose têm sido exploradas na fabricação de aerogéis funcionais, aplicados desde sistemas de liberação controlada até isolamento térmico e adsorção de contaminantes ambientais (Ma, 2025).
+Nesse contexto, Alataw et al. (2025) demonstraram a aplicação de um molde de celulose reaproveitada, obtida a partir de papel usado, como suporte para a fabricação de um nanosensor de cobalto (SNC) funcionalizado com ácido 1-(2-hidroxi-1-naftilazo)-2-naftol-4-sulfônico (HNNSA). O material resultante apresentou elevada sensibilidade e seletividade na detecção e remoção de íons Co(II), com limite de detecção de até 1,13 × 10⁻⁷ M. A estrutura porosa da matriz celulósica, confirmada por técnicas como XRD, SEM, TEM e análise de adsorção de nitrogênio, foi fundamental para a eficiência do processo. Além disso, cálculos de DFT validaram as interações moleculares entre o Co(II) e os grupos funcionais do sensor, reforçando o potencial da celulose reaproveitada como plataforma sustentável e eficaz em tecnologias de remediação ambiental.
+5.1.2     Quitosana
+A quitina é o segundo biopolímero mais abundante na natureza, encontrado principalmente no exoesqueleto de crustáceos, insetos e nas paredes celulares de fungos. A partir de sua desacetilação parcial, obtém-se a quitosana, um polissacarídeo linear que reúne características estruturais e funcionais que a tornam altamente promissora para aplicações em adsorção. Como ilustrado na Fig. 1b, esse processo de conversão envolve a remoção de grupos acetila da quitina, resultando em uma estrutura rica em grupos amina livres, altamente reativos e fundamentais para a complexação de íons metálicos em soluções aquosas (Gonçalves, 2024). Entre suas principais fontes estão as carapaças de crustáceos e resíduos provenientes de fungos e insetos, o que contribui para seu perfil como um recurso renovável, acessível e com forte apelo ambiental (Aranaz et al., 2021). A presença de grupos funcionais amina primários em sua estrutura favorece a complexação com íons metálicos por meio de interações eletrostáticas, aumentando sua eficiência em processos de remoção de contaminantes em meio aquoso (Atangana et al., 2025). Ultimamente, esse biopolímero tem recebido destaque crescente como base para a formulação de adsorventes sustentáveis, devido à sua biodegradabilidade, viabilidade econômica e abundância em resíduos orgânicos (Miron et al., 2024).
+Um estudo conduzido por Rahman et al. (2025) demonstra o potencial da quitosana em sua forma nanoestruturada, ao revestirem fibras de algodão com nano quitosana (NCCF) reticulada com ácido cítrico para a remoção de metais pesados de efluentes industriais. A modificação agregou ao material maior área superficial e porosidade, resultando em capacidades de adsorção superiores às da fibra natural. Os ensaios revelaram valores máximos de adsorção, segundo o modelo de Langmuir, de 4,76 mmol/g para Cd²⁺, 6,40 mmol/g para Pb²⁺ e 12,50 mmol/g para Cr⁶⁺. Esse trabalho reforça a viabilidade da quitosana nanoestruturada como material eficiente e sustentável para aplicações industriais no tratamento de águas contaminadas com metais pesados.
+No estudo conduzido por Mirbagheri (2025), foi desenvolvido um nanocompósito adsorvente a partir de quitosana extraída de resíduos de cascas de camarão, um subproduto amplamente disponível da indústria pesqueira. O nanocompósito CS-TPP-NSi obtido demonstrou desempenho adsortivo destacado na remoção de metais pesados, com capacidades máximas de 112,35 mg/g para chumbo e 60,97 mg/g para zinco, conforme o modelo de Langmuir. Além da elevada capacidade, o material apresentou cinética de adsorção rápida e boa eficiência em diferentes concentrações de poluentes, demonstrando versatilidade e alto potencial para aplicações reais em tratamento de águas contaminadas.
+
+
+5.1.3     Lignina
+Diferentemente de polissacarídeos lineares como a celulose e a quitosana, a lignina é um polímero aromático amorfo, com estrutura tridimensional complexa formada por unidades de fenilpropano — guaiacil (G), siringil (S) e p-hidroxifenil (H). Conforme representado na Fig. 1c, essa configuração estrutural confere à lignina e à nanolignina propriedades como elevada rigidez, estabilidade térmica e resistência química, o que a torna uma matriz promissora para aplicação em materiais funcionais (Camargos, 2025). Do ponto de vista da sustentabilidade, um dos aspectos mais relevantes da lignina é sua origem: trata-se de um subproduto em larga escala das indústrias de papel e celulose e da produção de bioetanol, geralmente subutilizado como fonte de energia de baixo valor ou simplesmente descartado. Nesse sentido, sua valorização como precursor de materiais adsorventes de alto desempenho representa um exemplo claro de economia circular, promovendo a conversão de resíduos industriais em soluções tecnológicas para a remediação ambiental.
+Além disso, a lignina destaca-se como um adsorvente de baixo custo em comparação com materiais convencionais, como o carvão ativado, principalmente na remoção de íons metálicos tóxicos. Em razão da presença de fenóis poli hídricos e de grupos funcionais adicionais em sua superfície, apresenta alta eficácia adsortiva, que favorecem interações com espécies contaminantes e aumentam a capacidade de retenção de metais em solução (Gupta et al., 2021).
+5.1.4     Alginato
+O alginato é um polissacarídeo aniônico linear extraído de algas marrons, como Ascophyllum nodosum, Macrocystis pyrifera e Laminaria hyperborea (Agüero et al., 2017), sendo um recurso marinho renovável e de baixo impacto ambiental, como demonstrado na Fig. 1d. Sua estrutura é composta por unidades de ácido β-D-manurônico (M) e ácido α-L-gulurônico (G), os quais, de acordo com proporção e distribuição, influenciam diretamente suas propriedades físico-químicas. Destaca-se pela sua capacidade de formar hidrogéis por meio de interações iônicas entre os blocos G e cátions multivalentes, como Ca²⁺ e Al³⁺, originando uma rede tridimensional amplamente utilizada em processos de adsorção (Siddiqui et al., 2025). Enquanto sais monovalentes, como Na⁺ e K⁺, geram soluções viscosas, os cátions divalentes e trivalentes induzem a formação de géis insolúveis, o que reforça sua aplicabilidade em sistemas de tratamento de efluentes (Kumar, Brijesh; Singh; Kumar, 2024). Além disso, o alginato contém grupos hidroxila e carbonila em sua cadeia, que podem ser quimicamente modificados através de técnicas como reticulação ou enxerto de superfície, a fim de potencializar ainda mais sua capacidade adsortiva (Pandey et al., 2025).
+Neste cenário, Nassar et al. (2025) propuseram a síntese de um compósito avançado baseado em alginato reticulado com cinza de casca de arroz, óxido de grafeno e nanopartículas de quitosana (CL-ARCG-CNP), visando à remoção eficiente de íons Pb²⁺ em sistemas aquosos. O material apresentou propriedades morfológicas e estruturais favoráveis, além de uma área superficial de aproximadamente 148,44 m²/g. Alcançando uma capacidade adsortiva de 242,5 mg/g e eficiência de remoção de 95,2% após 240 minutos de contato. Além disso, os testes de reusabilidade mostraram desempenho estável por até cinco ciclos consecutivos. Esses resultados reforçam a viabilidade do alginato modificado como plataforma funcional para a adsorção de metais pesados em águas residuais.
+5.1.5     Aerogéis e hidrogéis sustentáveis
+Aerogéis são materiais sólidos altamente porosos, com estrutura tridimensional caracterizada por uma densidade extremamente baixa, variando de 0,0011 a 0,5 g/cm³, e uma porosidade entre 90% e 99% (Nguyen, 2022). Conforme descrito por Sehaqui et al. (2010), sua formação ocorre pela substituição do líquido de um gel por uma fase gasosa, resultando em uma rede de poros nanométricos. Além disso, esses materiais apresentam uma área superficial específica bastante ampla, podendo alcançar valores entre 10 e 2000 m²/g (Guo et al., 2025). Essa combinação estrutural confere aos aerogéis uma notável eficiência na captura de contaminantes em meios aquosos, favorecida pela elevada área superficial e pela rede de poros altamente organizada, que potencializam os processos de adsorção (Taleb; Alzidan, 2024). Devido a essas propriedades, os aerogéis têm despertado crescente interesse na comunidade científica, especialmente por sua capacidade de estabelecer interações adsortivas eficazes com metais pesados e outros poluentes (Merillas; Rodríguez-Pérez; Durães, 2025).
+De acordo com o estudo de Demir e Kaya (2025), que desenvolveram um aerogel sustentável a partir de casca de tangerina, propuseram uma alternativa promissora para a remoção de corantes e a valorização de resíduos agroindustriais. O processo envolveu a purificação da biomassa com NaOH para remoção de componentes não celulósicos, seguida de modificação com Tween 80 para aumento da porosidade e liofilização. A gelificação foi obtida sem o uso de solventes convencionais, utilizando apenas a interação entre pectina e NaOH. O aerogel resultante apresentou uma porosidade notável (88% do volume do mesoporo), área superficial específica de aproximadamente 154 m²/g e capacidade média de adsorção de 79 g/g de alaranjado de metila em solução aquosa. Com elevada porosidade, origem natural e eficiência de adsorção, o material demonstrou potencial aplicabilidade em sistemas de remoção de poluentes, adsorção de gases e proteção ambiental. Além de ser econômico, ecologicamente correto e eficiente na produção de um bom produto adsorvente com porosidade ideal. Comprovando ser uma nova oportunidade para a aplicação de materiais de valor agregado e ambientalmente sustentáveis, através da reciclagem de subprodutos alimentares de forma econômica. 
+Dado o exposto, a busca por um desempenho ainda maior e por soluções multifuncionais tem impulsionado a combinação sinérgica dos biopolímeros com outras tecnologias avançadas. Em vez de atuarem apenas como adsorventes dispersos, esses materiais sustentáveis podem ser incorporados como componentes ativos em matrizes de engenharia, como as membranas de filtração. Essa abordagem híbrida não só aproveita a alta área superficial e os grupos funcionais dos biopolímeros, mas também os integra a um processo de separação física robusto, dando origem a uma nova classe de materiais compósitos de alto desempenho.
+  
+
+Fig. 1. Representação esquemática das fontes, estruturas e aplicações de biopolímeros naturais: (a) celulose (Ma, 2025); (b) quitosana (Gonçalves, 2024); (c) lignina e nanolignina (Camargos, 2025); e (d) alginato de sódio (Zheng, 2024).
+5.2           Técnicas de purificação
+5.2.1     Filtração a separação por membranas
+As técnicas baseadas no uso de membranas para filtração e separação de íons metálicos vêm ganhando destaque no tratamento de águas residuais, especialmente devido à sua eficiência na remoção de metais pesados (Qasem; Mohammed; Lawal, 2021). Essas tecnologias incluem nanofiltração (NF), osmose direta (OD), osmose reversa (OR), eletrodiálise (ED), microfiltração (MF) e ultrafiltração (UF), sendo classificadas principalmente de acordo com o tamanho dos poros da membrana, a pressão operacional, a concentração da solução e o tamanho das partículas ou íons a serem removidos (Xiang et al., 2022) (Birniwa et al., 2024). As membranas têm demonstrado alta eficácia na retenção de íons metálicos como Cd²⁺, Pb²⁺, Ni²⁺, Cu²⁺, Al³⁺, Co²⁺, Zn²⁺, Mn²⁺ e Cr⁶⁺, contribuindo de maneira significativa para o tratamento de águas contaminadas (Castro-Muñoz; González-Melgoza; García-Depraect, 2021).
+5.2.2     Nanofiltração
+A nanofiltração (NF) é uma técnica de separação por pressão que utiliza membranas semipermeáveis com capacidade de separar partículas entre 0,001 a 0,01 μm, assim operando entre as tecnologias de ultrafiltração e osmose reversa (Birniwa et al., 2024). Essa característica permite à NF reter íons divalentes, como Mg²⁺, Ca²⁺, Pb²⁺, Co²⁺, Mn²⁺ e Zn²⁺, sendo eficaz na purificação de soluções aquosas. Destaca-se também por possibilitar a produção de membranas de forma relativamente simples e em larga escala. As principais maneiras de fabricação dessas membranas incluem a polimerização interfacial e a inversão de fase, métodos amplamente empregados na indústria devido à sua eficiência e viabilidade técnica (Mahmoud; Mostafa, 2023).
+A busca por membranas NF com maior seletividade, permeabilidade e durabilidade tem impulsionado o desenvolvimento de novas tecnologias. Nesse contexto, Sahu, 2025 detalhou avanço das membranas de nanocompósito de película fina (TFN) surgindo como uma evolução da arquitetura convencional de compósito de película fina (TFC), muito utilizada em membranas NF, OD e OR. A estrutura TFC, que consiste em uma camada seletiva de poliamida (PA) sobre um suporte poroso, apresenta desafios como a suscetibilidade à incrustação e uma relação de escolha entre permeabilidade e seletividade. A tecnologia TFN supera essas limitações ao incorporar nano enchimentos na camada seletiva de PA durante sua formação. Essa abordagem aprimora o desempenho da membrana, posicionando as membranas TFN por nanofiltração como uma solução de próxima geração para a remoção eficiente de íons de metais pesados da água (Sahu; Yadav; Ingole, 2025).
+5.2.3     Osmose direta
+A osmose direta (OD) é um processo de separação que utiliza a diferença de pressão osmótica entre uma solução de alimentação e uma solução de extração, as quais são separadas por uma membrana semipermeável. Essa diferença de potencial osmótico promove, de forma espontânea, a passagem da água da solução de alimentação para a de extração, enquanto os solutos indesejáveis permanecem retidos no lado da alimentação (Sakai; Negishi; Matsukata, 2025).
+Entre as principais vantagens da OD estão o baixo consumo de energia, uma vez que o processo não requer pressão hidráulica aplicada, a baixa propensão à incrustação da membrana e a alta eficiência na recuperação de água. Essas características tornam a tecnologia especialmente atrativa para o tratamento de águas residuais (Qasem; Mohammed; Lawal, 2021). No entanto, a OD também apresenta limitações, como a escassez de solutos de extração ideais, desafios na seleção de membranas adequadas e problemas relacionados à polarização de concentração, tanto interna quanto externa (Qiu et al., 2022) (Qasem; Mohammed; Lawal, 2021).
+Como exemplo de aplicação da osmose direta, Sakai; Negishi e Matsukata (2025) desenvolveram uma membrana baseada em uma camada contínua de cristais de zeólita aluminossilicato Na-ZSM-5, sintetizada diretamente sobre a superfície externa de um suporte tubular poroso de α-alumina. Essa membrana foi avaliada quanto ao seu desempenho de rejeição e resistência à incrustação. Os resultados indicaram uma elevada eficiência de rejeição, atingindo 99% para diversas espécies metálicas, incluindo As(III), As(V), Se(IV), Se(VI) e Cr(VI). Esse alto desempenho foi atribuído pelo efeito de peneiramento molecular proporcionado pelos poros da zeólita e à repulsão eletrostática entre os ânions presentes nas soluções e a estrutura aniônica da membrana.
+5.2.4     Microfiltração
+A microfiltração é uma técnica de separação que utiliza membranas microporosas capazes de reter partículas com tamanhos entre 0,1 e 10 μm, operando sob baixa pressão. Sua aplicação é bastante diversificada, sendo utilizada no tratamento de solventes, fluidos e soluções para a remoção de partículas micrométricas, como bactérias, protozoários, vírus, poluentes e demais contaminantes (Qasem; Mohammed; Lawal, 2021). Por atuar de forma semelhante a uma filtração convencional, porém com maior precisão, a MF é especialmente indicada para a remoção de matéria em suspensão. O processo é impulsionado por uma diferença de pressão estática, enquanto a separação ocorre predominantemente por mecanismo de peneiramento. Em geral, a microfiltração é preferencialmente aplicada na retenção de sólidos dissolvidos e compostos orgânicos macromoleculares (Sandu et al., 2022).
+Sadek e Al-Jubouri (2024) em seu estudo desenvolveram membranas inovadoras de microfiltração compostas por óxido estânico (SnO₂) disperso em matriz de policloreto de vinila (PVC), com o objetivo de separar emulsões óleo em água. Utilizando o método de inversão de fases, as autoras produziram membranas com diferentes concentrações de nanopartículas, destacando-se a formulação com 1% em peso de SnO₂, que apresentou taxas de rejeição de até 99,6% para a demanda química de oxigênio (DQO). Esse desempenho superior foi atribuído à maior porosidade e hidrofobicidade reduzida da membrana, além da carga superficial negativa promovida pelas nanopartículas, que intensificou a repulsão entre os contaminantes oleosos e a superfície da membrana. Além disso, essa formulação demonstrou excelente resistência à incrustação, mantendo elevada taxa de recuperação de fluxo após múltiplos ciclos de filtração (Sadek; Al-Jubouri, 2024).
+5.2.5     Ultrafiltração
+As membranas UF são adequadas para isolar partículas e solutos com tamanhos na faixa de 0,01 a 0,1 μm. Elas podem remover efetivamente bactérias, vírus, grandes colóides e algumas proteínas (Birniwa et al., 2024). Apresenta as vantagens de menor pressão operacional em comparação a outras técnicas, menor necessidade de espaço, menor adição de produtos químicos, temperatura operacional amena e maior permeabilidade do que a RO e a NF (Qiu et al., 2023).
+A UF pode ser aplicada por meio de duas técnicas desenvolvidas especificamente para a remoção de íons metálicos: a ultrafiltração aprimorada por micelas (MEUF) e a ultrafiltração com polímeros aprimorados (PEUF) (Qiu et al., 2023). A técnica MEUF é particularmente indicada para o tratamento de águas residuais com baixas concentrações de metais pesados, sendo baseada na combinação de membranas de UF com surfactantes. Essa abordagem apresenta alto fluxo de permeado e elevada seletividade. No entanto, a recuperação dos surfactantes na corrente de concentrado da UF e o custo operacional ainda representam desafios técnicos e econômicos a serem superados (Qasem; Mohammed; Lawal, 2021) (Qiu et al., 2023).
+Por outro lado, a PEUF é formada pela integração de membranas de UF com polímeros ligantes, com o objetivo de separar metais pesados e compostos orgânicos dissolvidos em soluções aquosas. Essa técnica tem demonstrado desempenho eficaz na remoção de diversos íons metálicos, como Cr³⁺, Pd²⁺, Ni²⁺, Mn²⁺, Cu²⁺, Hg²⁺ e Cd²⁺, sendo amplamente aplicada no tratamento de efluentes industriais contaminados com metais tóxicos (Qasem; Mohammed; Lawal, 2021) (Qiu et al., 2023).
+5.2.6     Osmose Reversa
+As membranas utilizadas em processos de osmose reversa (OR) são capazes de reter partículas e solutos com tamanhos extremamente reduzidos, variando de 0,0001 a 0,001 μm. O processo opera sob alta pressão, revertendo o fluxo osmótico natural ao forçar a passagem da água através da membrana semipermeável, da solução de alimentação para o lado do permeado. Essa tecnologia se destaca por sua notável capacidade de separação, sendo eficiente na remoção de partículas microscópicas e íons monovalentes, como o sódio (Na⁺) e o cloreto (Cl⁻), atingindo taxas de rejeição de 95 a 99% para sais inorgânicos e compostos orgânicos carregados (Birniwa et al., 2024) (Qasem; Mohammed; Lawal, 2021).
+A osmose reversa tem sido amplamente utilizada no tratamento de água e na dessalinização, representando mais de 65% das usinas de dessalinização em operação no mundo. A tecnologia permite a produção de água de alta pureza, adequada para o consumo humano, uso agrícola e aplicações industriais, promovendo a remoção eficiente de sais, minerais e íons presentes na água de alimentação (A. Ahmed; A. Mahmoud; A. Mohamed, 2024).
+Um dos principais desafios na aplicação de membranas tradicionais da OR é a sua limitada vida útil, frequentemente comprometida por processos de incrustação, degradação da estrutura polimérica, redução da taxa de rejeição de sais e diminuição do fluxo de água com o envelhecimento da membrana (A. Ahmed; A. Mahmoud; A. Mohamed, 2024). Em resposta a essas limitações, pesquisas voltadas à modificação de membranas têm ganhado destaque nos últimos anos. Entre as estratégias mais promissoras está a incorporação de nanomateriais à matriz de PA, visando aprimorar suas propriedades físico-químicas. As membranas compostas de filmes finos (TFC) têm se consolidado como a principal classe utilizada na fabricação de membranas de OR modificadas, oferecendo melhorias significativas na eficiência de separação, resistência ao desgaste e durabilidade operacional (A. Ahmed; A. Mahmoud; A. Mohamed, 2024) (Zhao et al., 2020).
+5.2.7     Eletrodiálise
+A eletrodiálise é um processo de separação que utiliza um campo elétrico como força motriz para promover a migração de íons entre soluções, através de membranas seletivas de troca iônica (A. Ahmed; A. Mahmoud; A. Mohamed, 2024). O sistema é composto por uma série de membranas de troca catiônica (CEM) e membranas de troca aniônica (AEM), dispostas alternadamente em paralelo dentro de uma pilha eletrodialítica. Durante o processo, os ânions atravessam as AEMs, enquanto os cátions migram pelas CEMs, permitindo a separação dos solutos iônicos. Consequentemente, metade dos canais da pilha produz o fluxo diluído, enquanto a outra metade acumula o fluxo concentrado (Qasem; Mohammed; Lawal, 2021).
+Um estudo detalhado realizado por Salsabila e Biçer (2025) apresentaram um exemplo prático desse processo, no qual cátions dissolvidos, como K⁺, Ca²⁺, Mg²⁺ e Na⁺, presentes em água de alimentação (como água do mar ou salobra), migram em direção ao cátodo (eletrodo negativo) por meio das CEMs, que permitem seletivamente a passagem de íons com carga positiva. Simultaneamente, ânions como Cl⁻, SO₄²⁻ e NO₃⁻ são direcionados ao ânodo (eletrodo positivo) através das AEMs, que, por sua vez, são seletivas à passagem de íons negativamente carregados.
+As CEMs, carregadas negativamente, impedem a passagem de ânions por repulsão eletrostática, enquanto as AEMs, carregadas positivamente, bloqueiam a migração de cátions. Dessa forma, as membranas de troca iônica desempenham um papel essencial no controle preciso da movimentação de íons na eletrodiálise, assegurando a eficiência do processo de separação (Salsabila; Biçer, 2025).
+6            Resultados
+6.1           Fontes de dados e Metodologia 
+Esta análise bibliométrica permitiu mapear e caracterizar a produção científica relacionada a materiais avançados para remoção de metais pesados, destacando tendências, evolução temporal e principais temas de investigação. A utilização das bases Scopus e Web of Science garantiu uma amostra robusta e representativa, com 2.082 documentos analisados, abrangendo um período de 35 anos (1990–2025) conforme [Fig. 2], com taxa média de crescimento anual de 15,02%. O crescimento exponencial das publicações, especialmente a partir de 2008, com pico em 2024, evidencia o crescente interesse na área, provavelmente impulsionado pela demanda por soluções sustentáveis para problemas ambientais.  
+
+
+  
+
+Fig. 2. Classificação dos documentos obtidos na busca por literatura científica nas plataformas Web of Science e Scopus.
+ 
+As palavras-chave fornecidas pelos autores somaram 3.830 ocorrências, enquanto as palavras-chave adicionais alcançaram 10.288 registros. A predominância de termos como “biosorption”, “heavy metals”, “adsorption” e “kinetics”, [Fig. 3a], reforça a relevância deste tema na literatura, refletindo assim na sua importância dentro de processos eficientes e de baixo custo para descontaminação. Fica evidenciado a alta média de citações por documento (54,86), indicando um impacto significativo das pesquisas no campo.   
+
+
+   
+Fig. 3a. Frequência de ocorrência das palavras-chave identificadas na busca bibliográfica. As palavras-chave: biosorption, heavy metals, adsorption, biosorbent e kinetics.
+
+
+  
+
+Fig. 3b. Nuvem das dez palavras-chave mais buscadas: biosorption, heavy metals, , adsorption, sorption, biosorbent, contamination, treatment, green material, removal, wasterwater
+
+
+Em relação à produção científica ao longo dos anos, observou-se um crescimento progressivo, com aumento acentuado a partir de 2008 e pico em 2024, com 223 publicações. Os anos com maior volume de produção foram 2024 (223), 2022 (211), 2023 (180), 2021 (145) e 2020 (112), [Fig. 4]. Esse padrão de crescimento reflete o aumento do interesse e da produção científica no campo de materiais avançados e sustentáveis para remoção de metais pesados.
+
+
+  
+
+Fig. 4. Evolução da produção científica ao longo dos anos nas bases Web of Science e Scopus.
+ 
+
+
+  
+
+
+
+Fig. 5. Cinco autores que mais publicaram ao longo dos últimos 25 anos
+  
+
+
+
+Fig. 6. Top dez países que mais publicaram nesse tema
+
+
+  
+
+Fig. 7 Gráfico de tendência de crescimento em reação à produção científica ao longo dos anos
+Os resultados demonstram não apenas a crescente da área, mas também a necessidade de contínuo investimento em pesquisa e inovação, especialmente em abordagens interdisciplinares focando em soluções reais para desafios ambientais[a]. 
+Sim, existem produtos comerciais que se encaixam na categoria de adsorventes sustentáveis, especialmente aqueles derivados de resíduos agroindustriais. Embora o mercado para eles possa não ser tão desenvolvido quanto o dos adsorventes sintéticos tradicionais, seu potencial é grande (LIU; YANG; YANG, 2021).
+
+
+Um dos exemplos mais comuns é o carvão ativado. Uma parte significativa do carvão ativado disponível comercialmente é produzida a partir de resíduos agroindustriais como cascas de coco, que já se mostraram eficazes na remoção de metais como cromo (BITTENCOURT, 2018). Empresas vendem esse tipo de carvão ativado para diversas aplicações, incluindo o tratamento de água e a remoção de metais pesados. Embora o carvão ativado também possa ser feito a partir de fontes não renováveis, a tendência é que a produção a partir de biomassa cresça, devido aos seus benefícios ambientais e menor custo (BITTENCOURT, 2018).
+Outro material promissor é o biochar, que está ganhando espaço como adsorvente comercial. Produzido a partir da pirólise de biomassa, o biochar é valorizado por sua produção sustentável e sua capacidade de remover metais pesados e outros contaminantes da água e do solo (MIMURA et al., 2010). Há um número crescente de empresas que produzem e vendem biochar para uso agrícola e para remediação ambiental.
+Além desses, existem também adsorventes mais especializados que são desenvolvidos e comercializados a partir de subprodutos agroindustriais específicos, como o bagaço de caju e o pó da casca de coco, que possuem grupos funcionais capazes de adsorver íons metálicos (MOREIRA, 2008). Esses materiais visam contaminantes ou indústrias particulares, sendo menos conhecidos, mas presentes em nichos de mercado, com pesquisas demonstrando alta eficiência na remoção de metais tóxicos (SOUSA et al., 2007).
+7            Aplicações práticas e estudos de caso[b]
+A aplicação de adsorventes sustentáveis tem avançado significativamente, com estudos demonstrando sua eficácia no tratamento de efluentes contaminados por metais pesados. Esses materiais, frequentemente derivados de resíduos agroindustriais, destacam-se por seu baixo custo, disponibilidade em larga escala e potencial de regeneração (BARROS; CARVALHO; RIBEIRO, 2017). Entre os resíduos mais utilizados estão o bagaço de caju e o pó da casca de coco, que possuem grupos funcionais capazes de adsorver íons metálicos (MOREIRA, 2008).
+Na indústria de galvanoplastia, pesquisas investigaram o uso de carvão ativado derivado de casca de coco para remover metais como cromo de efluentes industriais. O material apresentou alta capacidade de adsorção para Cr(VI), e estudos indicam que seu custo de produção pode ser inferior aos adsorventes sintéticos comerciais. Essa abordagem não apenas proporciona eficiência técnica, como também reduz impactos ambientais e econômicos (BITTENCOURT, 2018).
+No setor agrícola, resíduos como a casca de arroz têm sido usados para tratar águas residuais contaminadas por metais. Esses biossorventes demonstram o potencial desses materiais para promover agricultura sustentável. O uso de biossorventes derivados de resíduos agroindustriais é relevante para a remoção de metais que podem contaminar o ambiente (MIMURA et al., 2010).
+Apesar dos avanços, diversas barreiras regulatórias e econômicas dificultam a adoção em larga escala. Muitos países carecem de normativas específicas que reconheçam e regulamentem o uso de adsorventes alternativos, o que limita seu uso formal em processos industriais. Além disso, o custo inicial de adaptação das plantas industriais e a ausência de incentivos fiscais ou subsídios dificultam a competitividade desses materiais frente a soluções tradicionais (LIU; YANG; YANG, 2021).
+Em países em desenvolvimento, a adoção tecnológica tem avançado por meio de parcerias entre universidades, centros de pesquisa e empresas (LIU; YANG; YANG, 2021). Por exemplo, pesquisas com adsorventes à base de bagaço de caju e casca de coco demonstraram alta eficiência na remoção de metais tóxicos (SOUSA et al., 2007).
+Existem produtos comerciais que se encaixam na categoria de adsorventes sustentáveis, especialmente aqueles derivados de resíduos agroindustriais. Embora o mercado para eles possa não ser tão desenvolvido quanto o dos adsorventes sintéticos tradicionais, seu potencial é grande (LIU; YANG; YANG, 2021).
+8            Desafios atuais e perspectivas futuras[c]
+Apesar dos avanços recentes, a aplicação prática de adsorventes sustentáveis ainda enfrenta diversos desafios que limitam sua adoção em escala industrial (LIU; YANG; YANG, 2021). Um dos principais entraves é a sustentabilidade dos métodos de síntese desses materiais (NEGI et al., 2025).
+Outro desafio importante é a integração desses materiais com tecnologias emergentes. A combinação de adsorventes com sensores inteligentes para monitoramento em tempo real, sistemas de biorreatores ou unidades de tratamento automatizadas pode aumentar significativamente a eficiência do processo de descontaminação. No entanto, a implementação dessas soluções é dificultada pelo alto custo, pela falta de mão de obra qualificada e pela ausência de infraestrutura adequada, especialmente em países em desenvolvimento (LIU; YANG; YANG, 2021).
+        Do ponto de vista técnico, muitos dos adsorventes sustentáveis ainda apresentam baixa seletividade, perda de eficiência após poucos ciclos de regeneração e dificuldade de aplicação em efluentes complexos com múltiplos contaminantes. Isso demanda o desenvolvimento de materiais mais robustos, com maior estabilidade química e capacidade de reutilização sem perda de desempenho (NEGI et al., 2025).
+A economia circular surge como um paradigma promissor, incentivando o reuso e a regeneração dos adsorventes após o processo de remoção de metais pesados. A proposta é que, ao final da vida útil, esses materiais possam ser reaproveitados, por exemplo, na formulação de fertilizantes ou materiais de construção, evitando a disposição final em aterros (MORSELETTO; MOOREN; MUNARETTO, 2022). No entanto, a implementação plena da economia circular enfrenta barreiras importantes, como a necessidade de reconhecimento e regulamentação do uso de adsorventes alternativos, a dificuldade de padronização dos produtos finais e a falta de regulamentações específicas que garantam a segurança ambiental no reuso de materiais contaminados (NECZAJ; GROSSER, 2018).
+        Para superar essas limitações, é necessário o desenvolvimento de rotas de síntese padronizadas e eficientes, a utilização de resíduos amplamente disponíveis, como casca de arroz ou coco, e o fortalecimento de parcerias para viabilizar projetos de pesquisa aplicada e escalonamento industrial. Ademais, políticas públicas que incentivem a inovação, linhas de crédito verdes e certificações ambientais específicas são medidas essenciais para acelerar a transição para uma cadeia produtiva mais sustentável (ULLAH; RAHMAN, 2024).
+9            Conclusões
+Foi realizado previamente utilizando a captação de banco de dados sobre o tema abordado neste trabalho, por seguinte utilizou-se o software R, assegurando que os métodos empregados possam ser reproduzidos e adaptados conforme necessário. O pacote bibliometrix demonstrou ser uma ferramenta valiosa para organizar e analisar os dados bibliográficos, sendo que a mesma abordagem pode ser aplicada a diferentes áreas de pesquisa e fontes de informação.
+Embora os estudos com materiais multifuncionais focados na adsorção de metais pesados tenham apresentado progressos importantes, a análise revelou algumas questões ainda não investigadas profundamente. Essas limitações apontam para a importância de desenvolver trabalhos que combinem conhecimentos de diversas áreas, incluindo o desenvolvimento de materiais, estudos de toxicidade e modelos de produção sustentável. Para que desta forma os materiais avançados se tornem uma alternativa altamente viável no tratamento de águas poluídas, não obstante disso é essencial focar em experimentos com amostras reais de efluentes, e nos resultados em melhorar a capacidade de remoção de diversos poluentes, visando de mesma forma diminuir os gastos com produção e operação, e assegurar que os processos sejam ambientalmente seguros e escalonáveis.
+Outro aspecto que merece atenção são as novas tecnologias, como os nanomateriais avançados e os métodos para tratar múltiplos contaminantes simultaneamente, que ainda não foram suficientemente investigados. Os próximos estudos posteriores buscam concentrar-se em tornar essas soluções financeiramente viáveis, testá-las em situações reais e incorporar técnicas de simulação computacional para otimizar seu desempenho.
+
+
+ Referências
+FREITAS, R. C. da S. et al. Contaminação ambiental por metais pesados provenientes do descarte irregular de resíduos sólidos urbanos. Revista Ibero-Americana de Ciências Ambientais, v. 12, n. 9, p. 433–441, 2021. http://doi.org/10.6008/CBPC2179-6858.2021.009.0033
+MANZINI, F. F.; SÁ, K. B. de; PLICAS, L. M. de A. Metais pesados: fonte e ação toxicológica. Fórum Ambiental da Alta Paulista, v. 6, n. 12, p. 800–815, 2010.
+FERRAZZO, S. T. et al. Métodos físicos e químicos para o tratamento de efluentes. Revista Brasileira de Gestão Ambiental e Sustentabilidade, v. 5, n. 11, p. 33–47, 2018. https://doi.org/10.21438/rbgas.051103
+REIS, J. M. et al. Técnicas de remoção de metais de águas residuárias: uma revisão. Research, Society and Development, v. 9, n. 10, e2610019100, 2022. http://dx.doi.org/10.33448/rsd-v11i2.26100
+NASCIMENTO, R. F.; NETO, V. de O. S.; MELO, D. de Q.. Uso de bioadsorventes lignocelulósicos na remoção de poluentes de efluentes aquosos. Fortaleza: Imprensa Universitária, 2014. 
+SABANDO-FRAILE, C. et al. Applying circular economy principles and life cycle assessment for the valorization of vine shoots as biosorbents for cadmium removal. Science of The Total Environment, v. 903, 2024. https://doi.org/10.1016/j.scitotenv.2024.171947
+BARROS, D. C.; CARVALHO, G.; RIBEIRO, M. A. Processo de biossorção para remoção de metais pesados por meio de biomassas vegetais. Revista Biotecnologia & Ciência v.6, n.1, p.01-15, 2017.
+BITTENCOURT, T. R. S. Avaliação da adsorção de cromo hexavalente com carvão ativado de diferentes biomassas. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Química) – Universidade Federal do Rio de Janeiro, Rio de Janeiro, 2018. 
+MIMURA, A. M. S.; VIEIRA, T. V. A.; MARTELLI, P. B.; GORGULHO, H. F. Utilização de casca de arroz como biossorvente para remoção de íons metálicos de soluções aquosas. Química Nova, São Paulo, v. 33, n. 6, p. 1279–1284, 2010. 
+Liu, Q; Yang, L; Yang M. Digitalisation for water sustainability: Barriers to implementing circular economy in smart water management. Sustainability, v. 13, n. 21, p. 11868, 2021. https://doi.org/10.3390/su132111868
+NEGI, M. et al. Clean and green bamboo magic: Recent advances in heavy metal removal using bamboo-based adsorbents. Water, v. 15, n. 3, p. 454, 2025. https://doi.org/10.3390/w17030454
+MORSELETTO, P.; MOOREN, C. E.; MUNARETTO, S. Circular economy of water: definition, strategies and challenges. Circular Economy and Sustainability, v. 2, p. 1463-1477, 2022. https://doi.org/10.1007/s43615-022-00165-x
+NECZAJ, E.; GROSSER, A. Circular Economy in Wastewater Treatment Plant–Challenges and Barriers. Proceedings, v. 2, n. 11, p. 614, 2018.  doi:10.3390/proceedings2110614
+ULLAH, M. H.; RAHMAN, M. J. Adsorptive removal of toxic heavy metals from wastewater using water hyacinth and its biochar: A review, 2024. https://doi.org/10.1016/j.heliyon.2024.e36869
+MOREIRA, S. A. Adsorção de íons metálicos de efluente aquoso usando bagaço do pedúnculo de caju: estudo de batelada e coluna de leito fixo. Dissertação (Mestrado em Engenharia Civil – Saneamento Ambiental) – Universidade Federal do Ceará, Fortaleza, 2008.
+SOUSA, F. W. et al. Uso da casca de coco verde como adsorbente na remoção de metais tóxicos. Química Nova, São Paulo, v. 30, p. 11531157, set./ out. 2007. 
+United Nations Overwiew—Sustainable Development Goals (SDG) Report. Available online: https://unstats.un.org/sdgs/report/2021/Overview/ (accessed on 25 May 2025). 
+IHSANULLAH, Ihsanullah et al. Aerogel-based adsorbents as emerging materials for the removal of heavy metals from water: Progress, challenges, and prospects. Separation and Purification Technology, v. 291, p. 120923, 2022. https://doi.org/10.1016/j.seppur.2022.120923
+ZHAO, Jingwen et al. Performance and Mechanism of L-arginine Modifed Alginate Aerogels for Adsorption of Cadmium and Copper Ions. Journal of Polymers and the Environment, v. 32, n. 10, p. 5086-5097, 2024. https://doi.org/10.1007/s10924-024-03276-8
+TCHOUNWOU, Paul B. et al. Heavy metal toxicity and the environment. Molecular, clinical and environmental toxicology: volume 3: environmental toxicology, p. 133-164, 2012. https://doi.org/10.1007/978-3-7643-8340-4_6
+ZHANG, Yuxuan et al. Synthesis and adsorption performance of three-dimensional gels assembled by carbon nanomaterials for heavy metal removal from water: A review. Science of The Total Environment, v. 852, p. 158201, 2022. http://dx.doi.org/10.1016/j.scitotenv.2022.158201
+ZHONG, Yuan et al. Evaluation of aerogel spheres derived from salix psammophila in removal of heavy metal ions in aqueous solution. Forests, v. 13, n. 1, p. 61, 2022. https://doi.org/10.3390/f13010061
+GARG, Shashank et al. Aerogels in wastewater treatment: A review. Journal of the Taiwan Institute of Chemical Engineers, v. 166, p. 105299, 2025. https://doi.org/10.1016/j.jtice.2023.105299
+ARORA, Rajeev. Adsorption of heavy metals–a review. Materials Today: Proceedings, v. 18, p. 4745-4750, 2019. https://doi.org/10.1016/j.matpr.2019.07.462
+SYEDA, Hina Iqbal; YAP, Pow-Seng. A review on three-dimensional cellulose-based aerogels for the removal of heavy metals from water. Science of the Total Environment, v. 807, p. 150606, 2021. https://doi.org/10.1016/j.scitotenv.2021.150606
+WEI, Gao et al. Ni-doped graphene/carbon cryogels and their applications as versatile sorbents for water purification. ACS applied materials & interfaces, v. 5, n. 15, p. 7584-7591, 2013. dx.doi.org/10.1021/am401887g
+GAO, Hongcai et al. Mussel-inspired synthesis of polydopamine-functionalized graphene hydrogel as reusable adsorbents for water purification. ACS applied materials & interfaces, v. 5, n. 2, p. 425-432, 2013. dx.doi.org/10.1021/am302500v
+AKHTER, Faheem et al. Recent advances and synthesis approaches for enhanced heavy metal adsorption from wastewater by silica-based and nanocellulose-based 3D structured aerogels: a state of the art review with adsorption mechanisms and prospects. Biomass Conversion and Biorefinery, v. 15, n. 5, p. 6585-6614, 2025. https://doi.org/10.1007/s13399-024-05469-6
+YANG, Tingting et al. Adsorption characteristics and the removal mechanism of two novel Fe-Zn composite modified biochar for Cd (II) in water. Bioresource technology, v. 333, p. 125078, 2021. https://doi.org/10.1016/j.biortech.2021.125078
+ZHAN, Wenwei et al. Green synthesis of amino-functionalized carbon nanotube-graphene hybrid aerogels for high performance heavy metal ions removal. Applied Surface Science, v. 467, p. 1122-1133, 2018. https://doi.org/10.1016/j.apsusc.2018.10.248
+ZHOU, Wen et al. Construction of MoS2 nanoarrays and MoO3 nanobelts: Two efficient adsorbents for removal of Pb (II), Au (III) and Methylene Blue. Journal of Environmental Sciences, v. 111, p. 38-50, 2021. https://doi.org/10.1016/j.jes.2021.02.031
+A. AHMED, Mahmoud; A. MAHMOUD, Safwat; A. MOHAMED, Ashraf. Nanomaterials-modified reverse osmosis membranes: a comprehensive review. RSC Advances, v. 14, n. 27, p. 18879–18906, 2024.
+BIRNIWA, Abdullahi Haruna et al. Membrane technologies for heavy metals removal from water and wastewater: A mini review. Case Studies in Chemical and Environmental Engineering, v. 9, p. 100538, 1 jun. 2024.
+CASTRO-MUÑOZ, Roberto; GONZÁLEZ-MELGOZA, Luisa Loreti; GARCÍA-DEPRAECT, Octavio. Ongoing progress on novel nanocomposite membranes for the separation of heavy metals from contaminated water. Chemosphere, v. 270, p. 129421, 1 maio 2021.
+MAHMOUD, Alaa El Din; MOSTAFA, Esraa. Nanofiltration Membranes for the Removal of Heavy Metals from Aqueous Solutions: Preparations and Applications. Membranes, v. 13, n. 9, p. 789, set. 2023.
+QASEM, Naef A. A.; MOHAMMED, Ramy H.; LAWAL, Dahiru U. Removal of heavy metal ions from wastewater: a comprehensive and critical review. npj Clean Water, v. 4, n. 1, p. 36, 8 jul. 2021.
+QIU, Fengrong et al. Forward osmosis for heavy metal removal: Multi-charged metallic complexes as draw solutes. Desalination, v. 539, p. 115924, 1 out. 2022.
+QIU, Yangbo et al. Progress of Ultrafiltration-Based Technology in Ion Removal and Recovery: Enhanced Membranes and Integrated Processes. ACS ES&T Water, v. 3, n. 7, p. 1702–1719, 14 jul. 2023.
+SADEK, Sara A.; AL-JUBOURI, Sama M. Highly efficient oil-in-water emulsion separation based on innovative stannic oxide/polyvinylchloride (SnO2/PVC) microfiltration membranes. Journal of Industrial and Engineering Chemistry, v. 140, p. 577–588, 25 dez. 2024.
+SAHU, Lalit Ranjan; YADAV, Diksha; INGOLE, Pravin G. Recent developments and innovations in thin-film nanocomposite nanofiltration: The next-generation selective membrane for heavy metal ion removal from water. Chemical Engineering Journal, v. 513, p. 162579, 1 jun. 2025.
+SAKAI, Motomu; NEGISHI, Eri; MATSUKATA, Masahiko. Rejection of heavy metal ions in water by zeolite forward osmosis membrane. Separation and Purification Technology, v. 357, p. 130163, 1 maio 2025.
+SALSABILA, Nadira; BIÇER, Yusuf. Application of Monovalent Selective Membranes and Bipolar Membranes in Electrodialysis: A Review. Journal of Environmental Chemical Engineering, p. 117504, 12 jun. 2025.
+SANDU, Teodor et al. Polymer Membranes as Innovative Means of Quality Restoring for Wastewater Bearing Heavy Metals. Membranes, v. 12, n. 12, p. 1179, dez. 2022.
+XIANG, Hongrui et al. Recent advances in membrane filtration for heavy metal removal from wastewater: A mini review. Journal of Water Process Engineering, v. 49, p. 103023, 1 out. 2022.
+ZHAO, Die Ling et al. Emerging thin-film nanocomposite (TFN) membranes for reverse osmosis: A review. Water Research, v. 173, p. 115557, 15 abr. 2020.
+Nguyen, PTT, Do, NHN, Goh, XY et al. Avanços Recentes na Fabricação e Aplicações Ecológicas de Aerogéis Sustentáveis a Partir de Diversos Materiais Resíduos. Waste and Biomass Valorization 13 , 1825–1847 (2022). https://doi.org/10.1007/s12649-021-01627-3 
+SEHAQUI, Houssine; SALAJKOVÁ, Michaela; ZHOU, Qi; BERGLUND, Lars A. Mechanical performance tailoring of tough ultra-high porosity foams prepared from cellulose I nanofiber suspensions. Soft Matter, [s. l.], vol. 6, no. 8, p. 1824–1832, 8 Abr. 2010. https://doi.org/10.1039/B927505C 
+GUO, Yucheng; SHEN, Kai; CHEN, Zhaofeng; CHEN, Shijie; WU, Chongying; WU, Qiong; LIU, Ao; YANG, Pengze; MA, Zhiyuan; YANG, Lixia. 3D-printed fumed silica/sodium alginate aerogels for thermal insulation. Ceramics International, [s. l.], Jan. 2025. https://doi.org/10.1016/j.ceramint.2025.01.522
+TALEB, M.F. A; ALZIDAN, K. Multifunctional applications of seaweed extract-infused hydroxyethyl cellulose-polyvinylpyrrolidone aerogels: Antibacterial, and antibiofilm proficiency for water decontamination. International Journal of Biological Macromolecules, [s. l.], vol. 278, p. 1 35021, 1 Out. 2024. https://doi.org/10.1016/J.IJBIOMAC.2024.135021
+Mirbagheri, S., Kalantari, M. & Miroliaei, MR Optimization of a novel waste-based hydrogel and its application in heavy metal removal. Polymer Bulletin. 82 , 1315–1337 (2025). https://doi.org/10.1007/s00289-024-05570-w 
+Trivunac, K.; Mihajlović, S.; Vukčević, M.; Maletić, M.; Pejić, B.; Kalijadis, A.; Perić Grujić, A. Modified Cellulose-Based Waste for Enhanced Adsorption of Selected Heavy Metals from Wastewater. Polymers 2024, 16, 2610. https://doi.org/10.3390/polym16182610
+Mohanrasu, K., Manivannan, AC, Rengarajan, HJR et al. Eco-friendly biopolymers and composites: a sustainable development of adsorbents for the removal of pollutants from wastewater. npj Materials Sustainability. 3 , 13 (2025). https://doi.org/10.1038/s44296-025-00057-9
+Freitas, PAV; Collado, PA; González-Martínez, C.; Chiralt, A. Produção de aerogéis a partir de celulose de palha de arroz obtida por um método ecológico e sua mistura com amido. Polymers 2025 , 17 , 1103. https://doi.org/10.3390/polym17081103
+Atangana, E.; Ajiboye, TO; Mafolasire, AA; Ghosh, S.; Hakeem, B. Adsorção de poluentes orgânicos de águas residuais usando adsorventes à base de quitosana. Polymers 2025 , 17 , 502. https://doi.org/10.3390/polym17040502
+AGÜERO, Lissette; ZALDIVAR-SILVA, Dionisio; PEÑA, Luis; DIAS, Marcos. Alginate microparticles as oral colon drug delivery device: A review. Carbohydrate Polymers, 2017. https://doi.org/10.1016/J.CARBPOL.2017.03.033
+Pandey, S., Pande, PP, Chaurasiya, A. et al. Development of eco-friendly sodium alginate-based hydrogel for the effective removal of copper(II) and cobalt(II) from contaminated water. Colloid Polym Sci (2025). https://doi.org/10.1007/s00396-025-05413-8
+
+
+FOUDA-MBANGA, B.G.; PRABAKARAN, E.; PILLAY, K. Carbohydrate biopolymers, lignin based adsorbents for removal of heavy metals (Cd2+, Pb2+, Zn2+) from wastewater, regeneration and reuse for spent adsorbents including latent fingerprint detection: A review. Biotechnology Reports, [s. l.], vol. 30, p. e00609, Jun. 2021. https://doi.org/10.1016/j.btre.2021.e00609. 
+
+
+GONÇALVES, Janaína Oliveira; STRIEDER, Monique Martins; SILVA, Luis Felipe Oliveira; DOS REIS, Glaydson Simões; DOTTO, Guilherme Luiz. Advanced technologies in water treatment: Chitosan and its modifications as effective agents in the adsorption of contaminants. International Journal of Biological Macromolecules, [s. l.], vol. 270, p. 132307, Jun. 2024. https://doi.org/10.1016/j.ijbiomac.2024.132307. 
+
+
+MA, Yufeng; HU, Yun; YANG, Xiao; SHANG, Qianqian; HUANG, Qin; HU, Lihong; JIA, Puyou; ZHOU, Yonghong. Fabrication, functionalization and applications of cellulose based aerogels: A review. International Journal of Biological Macromolecules, [s. l.], vol. 284, p. 138114, Jan. 2025. https://doi.org/10.1016/j.ijbiomac.2024.138114. 
+
+
+MERILLAS, Beatriz; RODRÍGUEZ-PÉREZ, Miguel Ángel; DURÃES, Luisa. Enhanced copper-adsorption removal from water by easy-handling silica aerogel-polyurethane foam composites. Journal of Industrial and Engineering Chemistry, [s. l.], vol. 146, p. 578–588, Jun. 2025. https://doi.org/10.1016/j.jiec.2024.11.041. 
+
+
+PANDEY, Suyash; PANDE, Poorn Prakash; CHAURASIYA, Arbind; KASHAUDHAN, Kopal; CHAUDHARY, Aradhana. Development of eco-friendly sodium alginate-based hydrogel for the effective removal of copper(II) and cobalt(II) from contaminated water. Colloid and Polymer Science, [s. l.], vol. 303, no. 7, p. 1171–1187, 28 Jul. 2025. https://doi.org/10.1007/s00396-025-05413-8. 
+
+
+RAHMAN, Md. Hasinur; MARUFUZZAMAN, Md.; RAHMAN, Md. Aminur; MONDAL, Md. Ibrahim H. Adsorption kinetics and mechanisms of nano chitosan coated cotton fiber for the removal of heavy metals from industrial effluents. Heliyon, [s. l.], vol. 11, no. 4, p. e42932, Feb. 2025. https://doi.org/10.1016/j.heliyon.2025.e42932. 
+
+
+SIDDIQUI, Vasi Uddin; ILYAS, R.A.; SAPUAN, S.M.; HAMID, Nur Hafizah Ab; KHOO, P.S.; CHOWDHURY, Amreen; ATIKAH, M.S.N.; RANI, M.S.A.; ASYRAF, M.R.M. Alginate-based materials as adsorbent for sustainable water treatment. International Journal of Biological Macromolecules, [s. l.], vol. 298, p. 139946, Apr. 2025. https://doi.org/10.1016/j.ijbiomac.2025.139946. 
+
+
+TAHA, Aya M.; MUSTAFA, Fatma H.A.; IBRAHIM, Hoyida E.; MOHAMADEIN, Lamiaa I.; ANWAR, Zeinab M.; ELSHARAAWY, Reda F.M. Adsorptive removal of heavy metal ions from wastewater using shrimp chitosan-cysteine-glutaraldehyde hydrogel as a sustainable biosorbent. International Journal of Biological Macromolecules, [s. l.], vol. 312, p. 143846, Jun. 2025. https://doi.org/10.1016/j.ijbiomac.2025.143846. 
+
+
+TARIQ, Afifa; YAHAYA, Noorfatimah; SAJID, Muhammad. Low cost adsorbents derived from vegetables and fruits: Synthesis, properties, and applications in removal of heavy metals from water. Desalination and Water Treatment, [s. l.], vol. 320, p. 100626, Oct. 2024. https://doi.org/10.1016/j.dwt.2024.100626. 
+YULIA, Ruka; HUSIN, Husni; ZAKI, Muhammad; RAZALI, Nasrullah; HISBULLAH; NASUTION, Fahrizal; AHMADI; NURHAZANAH; YAZIL, Muhammad Lathiful; SY, Yuliana; SYAFIIE, S. Enhancing sustainability through optimized adsorption using a novel Klason-lignin-based biosorbent derived from sugar-palm fruit shells for efficient removal of Pb(II) and Cd(II). Energy Nexus, [s. l.], vol. 17, p. 100398, Mar. 2025. https://doi.org/10.1016/j.nexus.2025.100398. 
+ZHENG, Dan; WANG, Kai; BAI, Bo. A critical review of sodium alginate-based composites in water treatment. Carbohydrate Polymers, [s. l.], vol. 331, p. 121850, May 2024. https://doi.org/10.1016/j.carbpol.2024.121850. 
+ 
+
+
+[a]Faltam tabelas comparativas com as capacidades adsortivas, mecanismos predominantes, pH ótimo e eficiência de regeneração dos diferentes materiais — isso tornaria o texto mais informativo e visualmente atrativo.
+[b]Existem produtos comerciais que podem ser enquadrados nesta categoria?
+[c]Poderia se citar como desafio o desenvolvimento de biossorventes magnéticos.
